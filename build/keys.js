@@ -2,10 +2,10 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
     database: {
-        host: 'bamrway9w2al6p8sh5zq-mysql.services.clever-cloud.com',
-        user: 'bamrway9w2al6p8sh5zq',
-        password: 'u3dzp6qkg8aad1ul',
-        database: 'gBVXYd8l1fwRItqADagW'
+        host: 'localhost',
+        user: 'root',
+        password: '',
+        database: 'ControlGasto'
     }, twitterConfig: {
         apiKey: 'kTYmehU9t2HFwAFGQJSqkApWk',
         apiSecretKey: '8vut5c6bgOTYGuNVDS23wE1UgplWOoATPofbSUHQMmFjEIBABV',
